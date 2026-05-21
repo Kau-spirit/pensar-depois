@@ -7,5 +7,7 @@ body{
     background-color: #547A95;
 }
 .cabeçalho{
-    background-color: #E8EDF2
+    background-color: #E8EDF2;
+    display: flex;
+    justify-content: space-between;
 }
