@@ -1,13 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
 *{
     margin: 1;
     padding: 1;
 }
 
 body{
-    background-color: #547A95;
+    color:#E8EDF2;
+    font-family: "Lora", serif;
+    background-color: blue;
 }
+
 .cabeçalho{
     background-color: #E8EDF2;
     display: flex;
     justify-content: space-between;
+    padding: 15px 25px;
+    align-items: center;
 }
