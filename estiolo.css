@@ -18,3 +18,10 @@ body{
     padding: 10px 15px;
     align-items: center;
 }
+.cartao{
+    width: 260px;
+    height: 200px;
+}
+.cartao img{
+    width: 80%;
+}
